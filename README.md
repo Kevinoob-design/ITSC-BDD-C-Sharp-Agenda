@@ -1,2 +1,2 @@
 # Agenda
- Canario's app Agenda
+ This was a Homework project 
